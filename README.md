@@ -1,5 +1,5 @@
 {% raw %}
-<img width="187" src="https://raw.githubusercontent.com/joe-sky/nornj/master/public/images/logo.png" alt="NornJ logo">
+<img width="187" src="https://raw.githubusercontent.com/joe-sky/nornj/master/public/images/nornj.png" alt="NornJ logo">
 
 ```html
   ____        __
